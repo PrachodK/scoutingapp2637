@@ -1,0 +1,24 @@
+branch-defaults:
+  main:
+    environment: scoutingapp2637
+    group_suffix: null
+deploy:
+  artifact: C:\Users\ltbig\Documents\scoutingapp2637\scoutingapp2637\target\scoutingapp2637-1.0-SNAPSHOT.jar
+environment-defaults:
+  scoutingapp2637:
+    branch: null
+    repository: null
+global:
+  application_name: scoutingapp2637
+  branch: null
+  default_ec2_keyname: null
+  default_platform: Corretto 17 running on 64bit Amazon Linux 2
+  default_region: us-west-2
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: null
+  repository: null
+  sc: git
+  workspace_type: Application
