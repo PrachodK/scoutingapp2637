@@ -1,2 +1,2 @@
-
+Scouting app
 
